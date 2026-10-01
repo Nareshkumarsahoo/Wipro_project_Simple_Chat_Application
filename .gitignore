@@ -1,0 +1,28 @@
+# Compiled executables
+server
+client
+
+# Other old/local executables
+chat
+client1
+client2
+client3
+
+# SQLite database
+database/chat.db
+
+# Log files
+logs/*.log
+
+# Object files
+*.o
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
